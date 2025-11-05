@@ -7,6 +7,8 @@ export default function Home() {
       <div>Home Page</div>  
       <br />
       <Link href="/organizing_team">Teams Page</Link>
+      <br />
+      <Link href="/sponsors">Sponsors Page</Link>
     </main>
   );
 }

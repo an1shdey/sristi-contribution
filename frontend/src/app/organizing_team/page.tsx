@@ -10,30 +10,30 @@ function TeamMembers() {
 
 	const teachers: Team[] = [
         // Row 1
-        { name: "Teacher", designation: "Member", image: "/Teams/teacher.jpg" },
-        { name: "Teacher", designation: "Member", image: "/Teams/teacher.jpg" },
-        { name: "Teacher", designation: "Member", image: "/Teams/teacher.jpg" },
-        { name: "Teacher", designation: "Member", image: "/Teams/teacher.jpg" },
-        { name: "Teacher", designation: "Member", image: "/Teams/teacher.jpg" },
+        { name: "Teacher", designation: "Member", image: "/organizing-team/teacher.jpg" },
+        { name: "Teacher", designation: "Member", image: "/organizing-team/teacher.jpg" },
+        { name: "Teacher", designation: "Member", image: "/organizing-team/teacher.jpg" },
+        { name: "Teacher", designation: "Member", image: "/organizing-team/teacher.jpg" },
+        { name: "Teacher", designation: "Member", image: "/organizing-team/teacher.jpg" },
 
         // Row 2
-        { name: "Teacher", designation: "Member", image: "/Teams/teacher.jpg" },
-        { name: "Teacher", designation: "Member", image: "/Teams/teacher.jpg" },
+        { name: "Teacher", designation: "Member", image: "/organizing-team/teacher.jpg" },
+        { name: "Teacher", designation: "Member", image: "/organizing-team/teacher.jpg" },
 	];
 
     const students: Team[] = [
         // Row 1
-        { name: "Anish Dey", designation: "Nothing", image: "/Teams/anish.jpg" },
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
+        { name: "Student", designation: "Member", image: "/organizing-team/anish.jpg" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
 
         // Row 2
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
-        { name: "Student", designation: "Member", image: "/Teams/student.jpg" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
+        { name: "Student", designation: "Member", image: "/organizing-team/student.png" },
 	];
 
     const categories = ["All", "Teachers Team", "Students Team"];
